@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/autoamate/static/css/main.2d9bfe79.chunk.css",
+    "main.js": "/autoamate/static/js/main.b484b562.chunk.js",
+    "main.js.map": "/autoamate/static/js/main.b484b562.chunk.js.map",
+    "runtime-main.js": "/autoamate/static/js/runtime-main.65c6a292.js",
+    "runtime-main.js.map": "/autoamate/static/js/runtime-main.65c6a292.js.map",
+    "static/css/2.4877bccf.chunk.css": "/autoamate/static/css/2.4877bccf.chunk.css",
+    "static/js/2.73fd624c.chunk.js": "/autoamate/static/js/2.73fd624c.chunk.js",
+    "static/js/2.73fd624c.chunk.js.map": "/autoamate/static/js/2.73fd624c.chunk.js.map",
+    "index.html": "/autoamate/index.html",
+    "precache-manifest.2e4d45bd9bce2f6d3b9f543d98bd7ad4.js": "/autoamate/precache-manifest.2e4d45bd9bce2f6d3b9f543d98bd7ad4.js",
+    "service-worker.js": "/autoamate/service-worker.js",
+    "static/css/2.4877bccf.chunk.css.map": "/autoamate/static/css/2.4877bccf.chunk.css.map",
+    "static/css/main.2d9bfe79.chunk.css.map": "/autoamate/static/css/main.2d9bfe79.chunk.css.map",
+    "static/js/2.73fd624c.chunk.js.LICENSE.txt": "/autoamate/static/js/2.73fd624c.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/autoamate/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/bootstrap.css": "/autoamate/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65c6a292.js",
+    "static/css/2.4877bccf.chunk.css",
+    "static/js/2.73fd624c.chunk.js",
+    "static/css/main.2d9bfe79.chunk.css",
+    "static/js/main.b484b562.chunk.js"
+  ]
+}

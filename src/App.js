@@ -9,7 +9,7 @@ function App() {
     <div className="container-fluid">
       <Layout>
         <Switch>
-          <Route path="/autoamate" exact component={Login}></Route>
+          <Route path="/" exact component={Login}></Route>
           <Route path="/WorkFlowBuilder" component={WorkFlowBuilder}></Route>
           <Route path="/workFlow" component={WorkFlow}></Route>
         </Switch>

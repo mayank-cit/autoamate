@@ -154,6 +154,10 @@ class ListWorkFlow extends Component {
           </div>
         </div>
         <hr />
+
+        <div style={{ fontStyle: "italic" }}>
+          Please click on the Workflow name to navigate to task page
+        </div>
         {this.totalWorkflows}
       </Aux>
     );

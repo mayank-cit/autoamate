@@ -1,0 +1,35 @@
+.Input {
+  width: 70%;
+  margin-right: 1em;
+  border-radius: 10em;
+  outline: none;
+  border: none;
+  border: 1px solid #ccc;
+  height: 2em;
+  padding: 1em;
+  font-family: FontAwesome;
+}
+
+.CreateButton {
+  background-color: #14bc50;
+  color: white;
+  border: none;
+  width: 100%;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.FilterButton {
+  background: transparent;
+  border-radius: 3px;
+  border: none;
+  border: 1px solid;
+  outline: none;
+  padding: 2px;
+}
+
+select {
+  outline: none;
+  border: none;
+  -webkit-appearance: none;
+}

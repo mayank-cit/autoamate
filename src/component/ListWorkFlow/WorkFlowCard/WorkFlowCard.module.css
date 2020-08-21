@@ -1,0 +1,34 @@
+.WorkflowBox {
+  border: 1px solid;
+  padding: 2em;
+  margin: 1em;
+}
+
+.WorkflowName {
+  width: 100%;
+  outline: none;
+  margin-bottom: 1em;
+  cursor: pointer;
+}
+
+.TickIcon {
+  position: absolute;
+  right: 20%;
+  background-color: #14bc50;
+  border-radius: 100%;
+  padding: 10px;
+  color: white;
+  cursor: pointer;
+  top: 50%;
+}
+
+.TickIconPending {
+  position: absolute;
+  right: 20%;
+  background-color: #ccc;
+  border-radius: 100%;
+  padding: 10px;
+  color: white;
+  cursor: pointer;
+  top: 50%;
+}

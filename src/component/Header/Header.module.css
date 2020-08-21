@@ -1,0 +1,16 @@
+.Header {
+  padding: 15px;
+  background-color: #a900b0;
+  color: white;
+  font-size: 20px;
+}
+
+.LogOut {
+  font-family: Calibri, Helvetica, sans-serif;
+  font-size: 75%;
+  background-color: #f5f5f5;
+  color: black;
+  padding: 4%;
+  border-radius: 5px;
+  cursor: pointer;
+}
